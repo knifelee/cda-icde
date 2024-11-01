@@ -1,0 +1,5 @@
+The dataset is too big.
+
+Thus, the users can generate the TPCDS dataset using the tools at https://github.com/BlueGranite/tpc-ds-dataset-generator
+
+remember to name the used table as the name of original.csv
